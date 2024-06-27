@@ -3,7 +3,7 @@
 The  eCommerce Applicationis an application for the [RSSchool](https://rs.school/) final task of 2023Q4 stage#2.
 Done in eager to match latest Front-end technologies alongside with pursue of learning [Commerce Tools](https://commercetools.com/) while following the goal of creating awesome design.
 
-## Deploy: [link](https://rolling-scopes-school.github.io/valeriyl01-JSFE2023Q4/rss-puzzle/)
+## Deploy: [link](https://lover-flower.netlify.app/)
 
 ## Tech Stack
 
